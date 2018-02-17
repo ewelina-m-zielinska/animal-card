@@ -1,21 +1,21 @@
 body {
     font-family: 'Atma', cursive;
     color: #272c2c;
-
+    background-color: #ecf0f177;
  }
 
- .border {
+.border {
     border: 5px double #535f5f;
     width: 314px;
     margin: auto;
-    background-color: #f0e7c4;
-    
+    background-color: #e6cd9b;  
 }
 
 .inner-border {
     border: 2px solid #cca284;
     margin: 5px;
     padding: 5px;
+    background-color: #f0e7c4;
 }
 
 .image-tile {
