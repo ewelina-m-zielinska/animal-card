@@ -1,0 +1,43 @@
+body {
+    font-family: 'Atma', cursive;
+    color: #272c2c;
+
+ }
+
+ .border {
+    border: 5px double #535f5f;
+    width: 314px;
+    margin: auto;
+    background-color: #f0e7c4;
+    
+}
+
+.inner-border {
+    border: 2px solid #cca284;
+    margin: 5px;
+    padding: 5px;
+}
+
+.image-tile {
+    width: 300px;
+    border: 2px solid #cca284;
+    margin: 5px;    
+}
+
+.pet-facts {
+    font-style: italic;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.description-item {
+    margin: 5px 2px 5px 2px;
+}
