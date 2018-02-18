@@ -1,5 +1,5 @@
 body {
-    font-family: 'Atma', cursive;
+    font-family: "Atma", cursive;
     color: #272c2c;
     background-color: #ecf0f177;
  }
@@ -39,5 +39,5 @@ body {
 }
 
 .description-item {
-    margin: 5px 2px 5px 2px;
+    margin: 5px 2px;
 }
